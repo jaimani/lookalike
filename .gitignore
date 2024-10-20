@@ -1,0 +1,7 @@
+*.npy
+*.json
+*env*
+image_cache/
+
+# Ignore Python cache files
+__pycache__/

@@ -1,0 +1,5 @@
+numpy
+scikit-learn
+face_recognition
+pillow
+tkinter
